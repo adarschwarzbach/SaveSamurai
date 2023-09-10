@@ -27,7 +27,8 @@ Introducing **SaveSamurai**, a powerful financial tool designed to:
 - **GPT-4**
 - **Vercel Serverless Functions**
 - **Visx**
-- **Blueprint.js**
+- **Blueprint.JS**
+- **Tailwind.CSS**
 - ... And with a lot of :notes: house music during development!
 
 ## :busts_in_silhouette: Creators
