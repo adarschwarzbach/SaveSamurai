@@ -1,5 +1,5 @@
 # SaveSamurai :dollar: :crossed_swords: 
-Major League Hacking](https://mlh.io/) & [HackDuke](https://hackduke.org/)'s
+[Major League Hacking](https://mlh.io/) & [HackDuke](https://hackduke.org/)'s
 ****📈Winning Project📈****
 Finnanace & Inequality Track
 
