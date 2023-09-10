@@ -1,6 +1,7 @@
 # SaveSamurai :dollar: :crossed_swords: 
-Built for [Major League Hacking](https://mlh.io/) & [HackDuke](https://hackduke.org/)'s
-****📈Code for Good📈****
+Major League Hacking](https://mlh.io/) & [HackDuke](https://hackduke.org/)'s
+****📈Winning Project📈****
+Finnanace & Inequality Track
 
 SaveSamurai is breaking down the barrier to financial freedom.[ Try it yourself](https://www.savesamurai.com)
 
