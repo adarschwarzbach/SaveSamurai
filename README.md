@@ -2,7 +2,7 @@
 Built for [Major League Hacking](https://mlh.io/) & [HackDuke](https://hackduke.org/)'s
 ****📈Code for Good📈****
 
-Breaking down the barrier to financial freedom.[ Try it yourself](https://www.savesamurai.com)
+SaveSamurai is breaking down the barrier to financial freedom.[ Try it yourself](https://www.savesamurai.com)
 
 ## :warning: The Problem
 
