@@ -1,4 +1,5 @@
-# SaveSamurai :dollar: :crossed_swords:
+# SaveSamurai :dollar: :crossed_swords: 
+**Built during Major League Hacking's HackDuke: Code for Good**
 
 Breaking down the barrier to financial freedom.[ Try it yourself](https://www.savesamurai.com)
 
