@@ -3,7 +3,7 @@
 ****📈Winning Project📈****
 Finnanace & Inequality Track
 
-SaveSamurai is breaking down the barrier to financial freedom.[ Try it yourself](https://www.savesamurai.com)
+SaveSamurai is breaking down the barrier to financial freedom.
 
 ## :warning: The Problem
 
